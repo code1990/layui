@@ -11,11 +11,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
  */
 
 @Controller
-@RequestMapping("/layui")
 public class IndexController {
 
     @RequestMapping("/index")
-    public String demo() {
-        return "layui/index";
+    public String index() {
+        return "index";
     }
 }
