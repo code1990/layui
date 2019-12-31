@@ -15,4 +15,4 @@ spring:
     show-sql: true
     open-in-view: false
 server:
-  port: 8000
+  port: 7600
