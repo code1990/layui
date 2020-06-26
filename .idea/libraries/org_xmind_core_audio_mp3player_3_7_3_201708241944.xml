@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="org.xmind.core.audio.mp3player_3.7.3.201708241944">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/org.xmind.core.audio.mp3player_3.7.3.201708241944.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/org.xmind.core.audio_3.7.3.201708241944.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/org.xmind.core.command.remote.lan_3.7.3.201708241944.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/org.xmind.core.command.remote_3.7.3.201708241944.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/org.xmind.core.command_3.7.3.201708241944.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/org.xmind.core.io_3.7.3.201708241944.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/org.xmind.core.licensing_3.7.3.201708241944.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/org.xmind.core.net_3.7.3.201708241944.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/org.xmind.core.runtime_3.7.3.201708241944.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/org.xmind.core.sharing.localnetwork_3.7.3.201708241944.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/org.xmind.core.usagedata_3.7.3.201708241944.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/org.xmind.core_3.7.3.201708241944.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
